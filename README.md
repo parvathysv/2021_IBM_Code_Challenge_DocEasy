@@ -49,8 +49,8 @@ Aswathy-setting up MongoDB\
 Sign up,login, password authentication and verification coding-Aswathy and Parvathy\
 >Documentation(including presentation, git hub)-Parvathy and Aswathy
 
-
-
+LINK TO OUR PRESENTATION\
+https://docs.google.com/presentation/d/13bmSwR6P_BC_1c31Y7QfwMbtNEdqr43BDhCgR-1ipOQ/edit?usp=sharing
 
 
 
