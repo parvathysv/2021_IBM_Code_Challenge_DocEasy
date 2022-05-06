@@ -1,7 +1,8 @@
 # 2021_IBM_Code_Challenge_DocEasy
-DOCEASY: A safe and secure database to digitize governments services.
 
-WHAT IS DOCEASY?
+DOCEASY: A safe and secure product to digitize governments services.
+
+PROBLEM STATEMENT
 In today's world even though most government services are digitized, people find it time consuming and tiresome to upload all their details while applying for something.
 With technology advancing at such a fast rate it is high time these services are made simpler and user friendly such that even a senior citizen could do this from the
 comfort of their own homes.
