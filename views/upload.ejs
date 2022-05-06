@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <title>HTML input type file</title>
+ 
+    <!--CSS code-->
+    <style>
+        h1 {
+            color: green;
+        }
+ 
+        h2,
+        h3 {
+            font-family: Impact;
+        }
+ 
+        body {
+            text-align: center;
+        }
+    </style>
+</head>
+ 
+<body>
+    <h2>Doc-Easy</h2>
+    <h3>
+        UPLOAD YOUR DOCUMENTS
+    </h3><label>Upload  Aadhar ID: </label>
+    <input type="file" id="myFile" /> <br /><br />
+     
+    <label>  Upload Driving licence: </label>
+    <input type="file" id="myFile" /> <br /><br />
+
+    <label> Upload SSLC Certificate: </label>
+    <input type="file" id="myFile" /> <br /><br />
+
+    <label> Upload PAN Card: </label>
+    <input type="file" id="myFile" /> <br /><br />
+
+    <label> Upload Voter ID: </label>
+    <input type="file" id="myFile" /> <br /><br />
+    
+    
+
+    
+     
+    <input type="submit" id="upload-submit" value="submit" />
+    <a href="/auth/logout">Logout</a>
+    <script>
+        document.getElementById("upload-submit").addEventListener("click",()=>{
+            alert("Successfully submitted")
+        })
+    </script>
+</body>
+ 
+</html>
