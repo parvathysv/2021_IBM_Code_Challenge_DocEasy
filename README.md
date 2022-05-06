@@ -50,7 +50,9 @@ Sign up,login, password authentication and verification, data collection from us
 >Documentation(including presentation, git hub)-Parvathy and Aswathy
 
 LINK TO OUR PRESENTATION\
-https://docs.google.com/presentation/d/13bmSwR6P_BC_1c31Y7QfwMbtNEdqr43BDhCgR-1ipOQ/edit?usp=sharing
+https://docs.google.com/presentation/d/13bmSwR6P_BC_1c31Y7QfwMbtNEdqr43BDhCgR-1ipOQ/edit?usp=sharing\
+LINK TO OUR VIDEO\
+https://youtu.be/6dcezvOFCF4
 
 
 
