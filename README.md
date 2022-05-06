@@ -42,11 +42,11 @@ FUTURE SCOPE
 
 INDIVIDUAL CONTRIBUTIONS
 >Front end layout-Anagha N S(LTVE18AE063)\
-Anagha did the front end design and the whole front end layout.\
+Anagha did the front end design and layouts using html.\
 >Database and backend-Parvathy and Aswathy\
 Parvathy-setting up server\
 Aswathy-setting up MongoDB\
-Sign up,login, password authentication and verification coding-Aswathy and Parvathy\
+Sign up,login, password authentication and verification, data collection from users coding-Aswathy and Parvathy\
 >Documentation(including presentation, git hub)-Parvathy and Aswathy
 
 LINK TO OUR PRESENTATION\
